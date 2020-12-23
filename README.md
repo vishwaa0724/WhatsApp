@@ -4,5 +4,3 @@ WhatsApp with Firebase : In This Series, You Will Learn How to create an app lik
 
 Hi, Im starting with new series, I want to show you
 how to create a app like whatsapp with firebase
-In this part we will setting up the project
-I hope you will enjoy this video.
