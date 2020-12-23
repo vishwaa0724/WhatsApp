@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881359100509",
+    "project_id": "whatsapp-fdc3b",
+    "storage_bucket": "whatsapp-fdc3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881359100509:android:5d796642d5593be55a4bb4",
+        "android_client_info": {
+          "package_name": "com.vishwaa.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881359100509-k2lhoilr8fiqa71n5rf0fvp8uc6cmase.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjbPe4JYOOgojTJRYv0MNbN0SLZA4dol8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881359100509-k2lhoilr8fiqa71n5rf0fvp8uc6cmase.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
