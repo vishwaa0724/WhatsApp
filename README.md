@@ -1,4 +1,4 @@
-# WhatsApp Clonee
+# WhatsApp Clone
 
 WhatsApp with Firebase : In This Series, You Will Learn How to create an app like WhatsApp with Firebase in Android Studio.
 
